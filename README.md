@@ -8,7 +8,7 @@ File-based routing, Data fetching that allows server-side rendering and static g
 
 ## Images
 
-<img src = "images/Herobanner.png" weight = "250">
+<img src = "images/HeroBanner.png" weight = "250">
 <img src = "images/best-seller.png" weight = "250">
 <img src = "images/FooterBanner.png" weight = "250">
 <img src = "images/product-page-cart.png" weight = "250">
